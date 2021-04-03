@@ -1,6 +1,7 @@
 # Temporary directories and files
 *.ckpt
 *.onnx
+*.dll
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -95,3 +96,5 @@ ENV/
 
 # Project files
 .vscode
+
+*.mp4
